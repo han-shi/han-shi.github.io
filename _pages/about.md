@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Huawei Noah Ark's Lab</a>.
 
 profile:
   align: right
@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a principal researcher at Huawei Noah's Ark Lab (Hong Kong). I obtained my Ph.D. degree from [Department of Computer Science and Engineering (CSE)](https://www.cse.ust.hk/) in [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [James T. Kwok](https://www.cse.ust.hk/~jamesk/). Before my Ph.D. journey, I obtained my Bachelor degree in [Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/) from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests are Generative Models, Neural Architecture Design and Automated Machine Learning (AutoML). Always looking for self-motivated research interns, please feel free to drop me an email if interested.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
