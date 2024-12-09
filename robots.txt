@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://han-shi.github.io/al-folio/sitemap.xml
+Sitemap: https://han-shi.github.io/sitemap.xml
