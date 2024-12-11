@@ -39,10 +39,9 @@
         "location": "Zurich, Switzerland",
         "url": "https://www.uzh.ch/",
         "area": "Software Development",
-        "studyType": "PhD",
-        "startDate": "1905-01-01",
-        "endDate": "1905-01-01",
-        "score": "10",
+        "studyType": "Ph.D.",
+        "startDate": "2018-",
+        "endDate": "2022-01-01",
         "courses": ["Theory of Relativity"]
       }
     ]
